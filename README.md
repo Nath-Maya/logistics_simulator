@@ -28,7 +28,7 @@ Mostrar al cliente el resultado de la cotización.
 #### Seguridad
 - La información ingresada debe ser almacenada.
 - El acceso a la base de datos debe requerir - autenticación y autorización.
-- El sistema debe protegerse contra ataques de inyección de código.
+
 #### Usabilidad
 El programa debe:
 - Informar al usuario sobre el estatus al realizar una acción.	
