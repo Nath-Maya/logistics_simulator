@@ -1,7 +1,7 @@
 # Logistics_Simulator 🛻 🛣️ 📦
 **Fecha de inicio:** 08 Febrero - 2024
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Nath-Maya/logistics_simulator)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Nath-Maya/logistics_simulator) ![GitHub language count](https://img.shields.io/github/languages/count/Nath-Maya/logistics_simulator?color=red) ![GitHub top language](https://img.shields.io/github/languages/top/Nath-Maya/logistics_simulator?color=) ![GitHub repo size](https://img.shields.io/github/repo-size/Nath-Maya/logistics_simulator?color=orange)
 
 
 ## Introducción
